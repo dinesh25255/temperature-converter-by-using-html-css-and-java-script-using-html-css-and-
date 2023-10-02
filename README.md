@@ -1,16 +1,12 @@
-# Temperature Converter
 
-![Preview](Temperature-Converter.png)
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
 The Temperature Converter is a stylish and interactive website that allows users to easily convert temperatures between Celsius, Fahrenheit, and Kelvin. The project was developed using HTML, CSS, and JavaScript, and provides an intuitive user interface for a seamless temperature conversion experience.
 
-## Live Demo
 
-[Click here for the live demo](https://amazingashish.github.io/Temperature-Converter)
+
+
 
 ## Features
 
@@ -27,20 +23,5 @@ The Temperature Converter is a stylish and interactive website that allows users
 3. Click the "Convert" button to see the converted temperatures instantly.
 4. Alternatively, the conversion is automatically triggered when you change the selected unit.
 
-## Installation
 
-Clone the repository:
 
-```bash
-git clone https://github.com/AmazingAshish/temperature-converter.git
-```
-
-Open `index.html` in your web browser to run the website locally.
-
-## Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
